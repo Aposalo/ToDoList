@@ -5,7 +5,7 @@ android {
     compileSdkVersion 33
 
     defaultConfig {
-        applicationId "com.example.android.todolist"
+        applicationId "com.aposalo.todolist"
         minSdkVersion 16
         targetSdkVersion 33
         versionCode 1
@@ -17,7 +17,7 @@ android {
             minifyEnabled false
         }
     }
-    namespace 'com.example.android.todolist'
+    namespace 'com.aposalo.todolist'
 }
 
 dependencies {

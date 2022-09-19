@@ -12,7 +12,7 @@
 
         <!-- The manifest entry for the MainActivity -->
         <activity
-            android:name="com.example.android.todolist.activities.MainActivity"
+            android:name="com.aposalo.todolist.activities.MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -23,7 +23,7 @@
 
         <!-- AddTaskActivity -->
         <activity
-            android:name="com.example.android.todolist.activities.AddTaskActivity"
+            android:name="com.aposalo.todolist.activities.AddTaskActivity"
             android:label="@string/add_task_activity_name" />
 
     </application>
